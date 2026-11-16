@@ -1,0 +1,9 @@
+
+path: /content/drive/MyDrive/Eternia_Training/Eternia_Training
+train: /content/drive/MyDrive/Eternia_Training/Eternia_Training/train_split.txt
+val: /content/drive/MyDrive/Eternia_Training/Eternia_Training/val_split.txt
+test: /content/drive/MyDrive/Eternia_Training/Eternia_Training/test_split.txt
+names:
+  0: Pimples
+  1: Dent
+  2: Scratchs

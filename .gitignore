@@ -1,0 +1,15 @@
+.env
+venv/
+.venv/
+
+eternia_training/Eternia_Training/Eternia_Training
+
+env/
+__pycache__/
+*.pyc
+
+eternia_training/Eternia_Training/runs/
+*.pt
+
+.DS_Store
+Thumbs.db
