@@ -3,3 +3,7 @@ uvicorn
 ultralytics
 opencv-python
 python-multipart
+numpy
+opencv-python
+Pillow
+ultralytics>=8.2
