@@ -1,18 +1,16 @@
 # Eternia Vision AI
 
-## Run with Docker
+## Run with Docker Compose
 
-Build the image from the project root:
-
-```sh
-docker build -t eternia-vision-ai .
-```
-
-Start the API on port 5000:
+Build and start the API from the project root:
 
 ```sh
-docker run --rm -p 5000:5000 eternia-vision-ai
+docker compose up --build
 ```
 
 The API is available at `http://localhost:5000`; interactive API documentation
-is at `http://localhost:5000/docs`.
+is at `http://localhost:5000/docs`. Stop the service with:
+
+```sh
+docker compose down
+```

@@ -1,0 +1,5 @@
+services:
+  eternia-vision-ai:
+    build: .
+    ports:
+      - "5000:5000"
