@@ -8,7 +8,6 @@ env/
 __pycache__/
 *.pyc
 
-eternia_training/Eternia_Training/runs/
 *.pt
 
 .DS_Store
